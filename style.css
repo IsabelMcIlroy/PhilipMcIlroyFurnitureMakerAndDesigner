@@ -1,6 +1,40 @@
 
 
+.nav-item{
+    text-align: center;
+    padding:1em;
+}
+
+
+.nav-link{
+    color:#42566F;
+}
+
+.nav-link:hover{
+    font-weight: bold;
+    color:#605F5F;
+}
+.nav-link:visited{
+    text-decoration: none;
+}
+.current{
+    font-weight: bold;
+}
+
+.dropdown-item{
+    color:#42566F;
+    text-align: center;
+}
+
+.mainImage{
+    background-image: url(images/mainImage.JPG);
+    background-color: #42566F;
+    height:300px;
+    background-position: center;
+    background-size:cover;
+}
+
 h2{
-    text-color:#42566F;
+    color:#42566F;
     text-align: center;
 }
