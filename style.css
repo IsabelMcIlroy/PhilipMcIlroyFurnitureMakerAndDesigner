@@ -34,6 +34,13 @@
     background-size:cover;
 }
 
+
+h1{
+    text-shadow: #42566F;
+    color:#605F5F;
+    font-size:4em;
+    font-weight: 100;
+}
 h2{
     color:#42566F;
     text-align: center;
