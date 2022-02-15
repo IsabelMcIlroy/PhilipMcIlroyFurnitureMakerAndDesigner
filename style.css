@@ -173,17 +173,17 @@ p{
 
 /*Item Page*/
 
-.secondary-img-c{
+.small-img-col{
     display: flex;
     justify-content: space-between;
 }
 
-.secondary-img-r{
-    flex-basis: 20%;
+.small-img-row{
+    flex-basis: 24%;
     cursor: pointer;
 }
 
-.secondary-img{
+.small-img{
     padding:2px;
 }
 
