@@ -187,10 +187,16 @@ p{
     padding:2px;
 }
 
-#ProductImg{
+#MainImg{
     padding:2px;
 }
 
+.card-nb{
+    border: none;
+    padding:20px;
+}
+
+/*Footer*/
 body{
     min-height: 100vh;
 }

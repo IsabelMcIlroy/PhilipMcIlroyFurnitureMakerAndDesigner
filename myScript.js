@@ -1,15 +1,15 @@
-var ProductImg = document.getElementByID("ProductImg");
-var SmallImg = document.getElementsByClassName("secondary-img");
+var MainImg = document.getElementById('MainImg');
+var smallimg = document.getElementsByClassName('small-img');
 
-    SmallImg[0].onclick=function(){
-        ProductImg.src = SmallImg[0].src;
-    }
-    SmallImg[1].onclick=function(){
-        ProductImg.src = SmallImg[1].src;
-    }
-    SmallImg[2].onclick=function(){
-        ProductImg.src = SmallImg[2].src;
-    }
-    SmallImg[3].onclick=function(){
-        ProductImg.src = SmallImg[3].src;
-    }
+smallimg[0].onclick = function(){
+    MainImg.src = smallimg[0].src;
+}
+smallimg[1].onclick = function(){
+    MainImg.src = smallimg[1].src;
+}
+smallimg[2].onclick = function(){
+    MainImg.src = smallimg[2].src;
+}
+smallimg[3].onclick = function(){
+    MainImg.src = smallimg[3].src;
+}
