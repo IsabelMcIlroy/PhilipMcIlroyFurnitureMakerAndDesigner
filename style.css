@@ -150,7 +150,6 @@ h5{
 p{
     color:#605F5F;
     font-family: Poppins, sans-serif;
-    font-weight: 200;
 }
 
 /*buttons*/
@@ -173,18 +172,20 @@ p{
 
 /*Item Page*/
 
-.small-img-col{
-    display: flex;
-    justify-content: space-between;
+.small-img-c{
+    display:grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
 }
 
-.small-img-row{
-    flex-basis: 24%;
+.small-img-r{
+    
     cursor: pointer;
 }
 
 .small-img{
     padding:2px;
+    width: 100%;
 }
 
 #MainImg{
