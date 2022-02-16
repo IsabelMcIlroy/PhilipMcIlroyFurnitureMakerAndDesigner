@@ -186,16 +186,27 @@ p{
 .small-img{
     padding:2px;
     width: 100%;
+
 }
+
 
 #MainImg{
     padding:2px;
+}
+
+.MainImg{
+    transition: all 1.5s ease-in-out;
+}
+.MainImg:hover{
+    transform: scale(1.5);
 }
 
 .card-nb{
     border: none;
     padding:20px;
 }
+
+
 
 /*Footer*/
 body{
@@ -206,3 +217,4 @@ body{
     position: sticky;
     top:100%;
 }
+
