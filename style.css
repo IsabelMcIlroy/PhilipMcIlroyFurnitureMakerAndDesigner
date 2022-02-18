@@ -128,6 +128,9 @@
 
 /*text*/
 
+body{
+    font-size: var(bs-body-font-size);
+}
 h1{
     color:#605F5F;
     font-family:Poppins, sans-serif;
@@ -186,26 +189,19 @@ p{
 .small-img{
     padding:2px;
     width: 100%;
-
+    
 }
-
 
 #MainImg{
     padding:2px;
 }
 
 .MainImg{
-    transition: all 1.5s ease-in-out;
+    transition: all 1s ease-in;
 }
 .MainImg:hover{
     transform: scale(1.5);
 }
-
-.card-nb{
-    border: none;
-    padding:20px;
-}
-
 
 
 /*Footer*/
