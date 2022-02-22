@@ -122,7 +122,7 @@
     height:200px;
     background-position: center;
     background-size:cover;
-    
+    opacity: .9;
 }
 
 
@@ -140,6 +140,11 @@ h2{
     color:#42566F;
     text-align: center;
     font-family: Poppins, sans-serif;
+}
+.h2White{
+    color:white;
+    text-align: center;
+    font-family: Poppins,sans-serif;
 }
 h4{
     color: #605F5F;
@@ -202,7 +207,6 @@ p{
 .MainImg:hover{
     transform: scale(1.5);
 }
-
 
 /*Footer*/
 body{
