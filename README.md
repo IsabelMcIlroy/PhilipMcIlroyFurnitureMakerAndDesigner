@@ -1,0 +1,2 @@
+This is the first project I completed with Get Coding. It is a desgin for a website my husband will use for his furniture business once he gets that up and running. Once he has finished desiging and proytyping his furniture I will update the website and it will then be a space for him to market his furniture.
+![Screenshot](images/Capture.jpg)
