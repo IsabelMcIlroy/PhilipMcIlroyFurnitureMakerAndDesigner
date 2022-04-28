@@ -1,5 +1,8 @@
 
 /*Nav Bar*/
+.navbar{
+    background-color: #ffffff;
+}
 .nav-item{
     text-align: center;
     padding:1em;
@@ -123,6 +126,7 @@
     background-position: center;
     background-size:cover;
     opacity: .9;
+    margin-top: 120px;
 }
 
 
