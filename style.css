@@ -182,6 +182,17 @@ p{
     color: white;
 }
 
+/* Furtiure */
+.images{
+    background-image: url(images/ArmChair.JPG);
+    height: 200px;
+}
+.bottom{
+    padding-top: 90px;
+    color: antiquewhite;
+    text-align: center;
+}
+
 /*Item Page*/
 
 .small-img-c{
