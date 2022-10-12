@@ -186,6 +186,7 @@ p{
 .images{
     background-image: url(images/ArmChair.JPG);
     height: 200px;
+    border-radius: 24px;
 }
 .bottom{
     padding-top: 90px;
