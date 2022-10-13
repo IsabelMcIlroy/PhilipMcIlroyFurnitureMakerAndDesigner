@@ -5,9 +5,9 @@ This is the first project I completed with Get Coding. It is a design for a webs
 My husband is in the planning stages of starting his own furniture making business and will need a website to showcase his work. I thought this made a useful and interesting project to learn more HTML and CSS. Also I learnt this project to learn about using a framework (bootstrap).
 
 # Built with
--HTML/
--CSS/
--Bootstrap/
+-HTML\
+-CSS\
+-Bootstrap\
 -Javascript
 
 # Demo site
