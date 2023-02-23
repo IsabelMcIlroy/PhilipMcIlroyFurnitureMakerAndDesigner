@@ -1,7 +1,7 @@
 
 /*Nav Bar*/
 .navbar{
-    background-color: #f8f5f5;
+    background-color: #ebe9e9;
 }
 .nav-item{
     text-align: center;
@@ -30,6 +30,7 @@
 .dropdown-item:hover{
     font-weight: bold;
     color: #286e7a;
+    background-color: #ebe9e9;
 }
 .dropdown-menu{
     border:0;
