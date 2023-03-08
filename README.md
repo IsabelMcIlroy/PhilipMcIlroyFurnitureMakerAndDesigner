@@ -11,6 +11,6 @@ My husband is in the planning stages of starting his own furniture making busine
 -Javascript
 
 # Demo site
-https://isabelmcilroy.github.io/PhilipMcIlroyFineCarpentry/
+https://isabelmcilroy.github.io/PhilipMcIlroyFurnitureMakerAndDesigner/
 
 ![Screenshot](images/Capture.jpg)
