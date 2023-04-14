@@ -123,7 +123,7 @@
 .mainImage{
     background-image: url(images/mainImage.JPG);
     background-color: #42566F;
-    height:200px;
+    height: 240px;
     background-position: center;
     background-size:cover;
     opacity: .9;
