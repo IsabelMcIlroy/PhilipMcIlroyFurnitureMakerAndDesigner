@@ -241,9 +241,21 @@ body{
     min-height: 100vh;
 }
 
+.footerInfo{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+}
+
 .sticky-footer{
     position: sticky;
     top:100%;
+    background-color: #dbdada;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 36px 0px 12px 0px;
 }
 
 a{
