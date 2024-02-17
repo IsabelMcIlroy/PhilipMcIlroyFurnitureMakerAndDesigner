@@ -221,9 +221,9 @@ p{
 .MainImg{
     transition: all 1s ease-in;
 }
-.MainImg:hover{
+/* .MainImg:hover{
     transform: scale(1.5);
-}
+} */
 
 /* Sawmill Page */
 .carousel-indicators .active{
