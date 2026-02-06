@@ -1,6 +1,6 @@
 /*Nav Bar*/
 .navbar {
-  background-color: #dbdada;
+  background-color: #b2b2b2;
 }
 .nav-item {
   text-align: center;
@@ -136,6 +136,7 @@
 
 body {
   font-size: var(bs-body-font-size);
+  background-color: #dbdada;
 }
 h1 {
   color: #605f5f;
@@ -186,9 +187,12 @@ p {
 
 /* Furtiure */
 .images {
-  background-image: url(images/ArmChair.JPG);
+  background-image: url(images/chairs.JPG);
   height: 200px;
   border-radius: 24px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: #706f6f;
 }
 .bottom {
   padding-top: 90px;
@@ -259,7 +263,7 @@ body {
 .sticky-footer {
   position: sticky;
   top: 100%;
-  background-color: #dbdada;
+  background-color: #b2b2b2;
   display: flex;
   justify-content: center;
   align-items: center;
