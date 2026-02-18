@@ -1,3 +1,13 @@
+/* Coming Soon */
+.comingSoon {
+  height: 266px;
+  margin-bottom: 0;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background-color: white;
+  border-radius: 8px;
+}
 /*Nav Bar*/
 .navbar {
   background-color: #b2b2b2;
